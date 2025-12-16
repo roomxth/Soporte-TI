@@ -1,0 +1,50 @@
+#Definición de variables
+nombre = "Montse"
+edad = 26
+altura = 1.64
+
+print("Hola soy:", nombre)
+print("y tengo:", edad, "y mido:", altura)
+print("el proximo año cumplo", edad + 1)
+
+precio_producto = 19.99
+cantidad = 3
+total = precio_producto * cantidad
+print("el total a pagar es:", total)
+
+mayor_edad = True
+tiene_beca = False
+if mayor_edad:
+    print("Puede") 
+
+2 códigos
+
+<nombre> ha comenzado hoy su primer curso de Generation.
+Se están formando como <nombre del puesto>
+Su compañero les pareció muy <adjetivo>, pero su profesor era cuando menos, <adjetivo>.
+Para comer comen <comida> y <comida> mientras repasan sus notas.
+Sienten <sentimiento> pero están decididos a completar el curso. 
+
+
+Tarea: Una línea de código que ejecute el siguiente texto 
+
+"!Un día vi una vaca vestida de uniforme 7 veces consecutivas!"
+
+
+driverquery /v
+wmic path Win32
+_PnPSignedDriver get DeviceName,DriverVersion, Manufacturer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
